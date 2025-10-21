@@ -15,5 +15,18 @@ The goal of this project is to explore patterns in chocolate bar ratings using t
 - Is there a cocoa percentage that tastes better or worse?
 
  ## Data and Tools Used
+The "Flavors of Cacao" dataset was used for this project. It was open sourced from Kaggle, and the detailed summary documentation can be found in the "01-Project Management" folder above. This dataset includes over 1700 unique chocolate bars, along with information on their regional origin, percentage of cacao, bean variety and where the beans were grown. These ratings were scored by cacao tasting experts. The ratings were compiled by Brady Brelinski, who is the Founding Member of the Manhattan Chocolate Society.
 
- 
+Python and Tableau were the main data analyst tools used for exploratory data analysis, data visualization, cleaning, and much more. THe following libraries are just some of the ones used in Python and Jupyter Notebooks under the "03-Scripts" folder above:
+
+  - Pandas: For data analysis
+  - Numpy: For numerical operations
+  - OS: Interaction between operating system and Python, for file and directory operations
+  - Matplotlib.pyplot: For plotting data values in graphical and data visualization formats
+  - Seaborn: For more additional statistical data visualization
+  - Scipy: For more advanced mathmatical and technical computing
+  - Scikit-learn and Statsmodels: For regression models, clustering, and trend analysis
+  - JSON: Geospatial analysis/visualization handeling
+
+## Folders
+
