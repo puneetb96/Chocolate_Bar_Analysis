@@ -39,4 +39,4 @@ The makeup of this project is divided into the following folder structures:
 - 01-Project Managment: Project brief PDF and detailed Microsoft Word summary of open sourced 'Flavors of Cacao" Kaggle dataset
 - 02-Data: Contains "Original Data" and "Prepared Data" subfolders for all portions of this project. Cleaned and merged CSV files were used for analysis
 - 03-Scripts: All Python coding scripts in Jupyter notebooks used for analysis and visualization
-- 04-Analysis: Under "Data Visualizations" subfolder, there contains all the data visualizations created in Python.
+- 04-Analysis/Data Visualizations: This contains all the data visualizations created in Python.
